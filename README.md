@@ -8,3 +8,7 @@ You need to use given repo to create your music list.
 - **Student ID**: your studentID
 - **Student Name**: your name
 - **Section Number**: your course section number
+
+U1810215 
+Matmusaev Azamatjon
+ICE 18-01
